@@ -1,18 +1,18 @@
-# Yeoman.io [![Build Status](https://travis-ci.org/yeoman/yeoman.github.io.svg?branch=source)](https://travis-ci.org/yeoman/yeoman.github.io)
+## Yeoman.io [![Build Status](https://travis-ci.org/yeoman/yeoman.github.io.svg?branch=source)](https://travis-ci.org/yeoman/yeoman.github.io)
 
 > [Yeoman.io](https://yeoman.io) site
 
 
 ## Attention!
 
-If you have an issue or contribution for the Yeoman.io website, this is the place!
+If you have an issue or benefaction for the Yeoman.io website, this is the place!
 
-If you want to submit an issue or make a contribution for Yeoman's core source code please visit either the [yo command line repository](https://github.com/yeoman/yo), the [yeoman base classes repository](https://github.com/yeoman/generator), or the [yeoman runtime environment repository](https://github.com/yeoman/environment).
+If you want to submit an issue or make a benefaction for Yeoman's core source code please visit either the [yo command line repository](https://github.com/yeoman/yo), the [yeoman base classes repository](https://github.com/yeoman/generator), or the [yeoman runtime environment repository](https://github.com/yeoman/environment).
 
-For workflow issues or contributions please visit the [yeoman/yeoman repository](https://github.com/yeoman/yeoman).
+For workflow issues or benefaction please visit the [yeoman/yeoman repository](https://github.com/yeoman/yeoman).
 
 
-## Contributing
+## Benefaction
 
 This site is made with [Jekyll](https://github.com/mojombo/jekyll/) and [generator-jekyllrb](https://github.com/robwierzbowski/generator-jekyllrb).
 
